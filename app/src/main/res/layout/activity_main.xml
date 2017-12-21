@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="500dp"
         android:textSize="15sp"
-        android:text="※2048まで行く逆再生"
+        android:text="※2048まで行くと逆再生"
         android:id="@+id/textbikou" />
 
 
